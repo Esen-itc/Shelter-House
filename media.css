@@ -1,0 +1,240 @@
+@media (max-width:768px) {
+    .ourfriends_block {
+        width: 100%;
+        padding: 20px 0px;
+    }
+
+    .rd {
+        width: 90%;
+    }
+
+    #donation {
+        /* background-color: aqua; */
+        height: 150%;
+    }
+
+    .don {
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        /* background-color: yellow; */
+        width: 90%;
+        justify-content: space-around;
+    }
+
+    nav {
+        /* background-color: aqua; */
+        width: 57%;
+    }
+}
+
+@media (max-width:320px) {
+    .header_first-block_logo {
+        /* background-color: aqua; */
+        width: 100%;
+
+    }
+
+    .header_first-block {
+        width: 200%;
+        flex-wrap: wrap;
+        /* background-color: aqua; */
+    }
+
+    nav {
+        width: 55%;
+        justify-content: space-around;
+        /* background-color: aqua; */
+    }
+
+    .header {
+        /* background-color: aqua; */
+        background-size: cover;
+        justify-content: start;
+        align-items: flex-start;
+    }
+
+    .header_second-block {
+        /* background-color: aqua; */
+        width: 60%;
+        flex-direction: column;
+    }
+
+    .header_second-block_h2 {
+        /* background-color: blueviolet; */
+        width: 200%;
+        font-size: 24px;
+    }
+
+    #about {
+        /* background-color: aqua; */
+        width: 100%;
+        height: 100%;
+        font-size: 12px;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    #about_second-block {
+        /* background-color: blueviolet; */
+        width: 20%;
+        font-size: 24px;
+        /* font-weight: 20%; */
+    }
+
+    .about_second-block_p {
+        font-size: 15px;
+        line-height: 160%;
+        display: flex;
+        align-items: center;
+        text-align: justify;
+    }
+
+    #rt {
+        width: 250px;
+        height: 250px;
+    }
+
+    .ourfriends_card2 {
+        display: none;
+    }
+
+    .ourfriends_card3 {
+        display: none;
+    }
+
+    #helpshelter {
+        flex-wrap: wrap;
+        width: 100%;
+        /* background-color: blueviolet; */
+    }
+
+    .helpshelter_icons_1row {
+        /* background-color: aqua; */
+        width: 100%;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .helpshelter_icons_2row {
+        /* background-color: aqua; */
+        width: 100%;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    .helpshelter_p {
+        font-size: 15px;
+    }
+
+    .don {
+        width: 100%;
+        /* background-color: blueviolet; */
+    }
+
+    .makedonation {
+        width: 90%;
+        height: 4%;
+        align-items: center;
+        text-align: center;
+        /* background-color: aqua; */
+
+    }
+
+    #qw {
+        width: 260px;
+    }
+
+    #makedonation_h2 {
+        font-size: 25px;
+        align-items: center;
+        text-align: center;
+        justify-content: space-between;
+        /* background-color: cadetblue; */
+    }
+
+    #makedonation_legal {
+        /* background-color: blue; */
+        width: 90%;
+        height: 20%;
+        font-size: 10px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: justify;
+    }
+
+    #makedonation_button {
+        width: 90%;
+
+    }
+
+    .makedonation_cardnumber {
+        width: 90%;
+        /* background-color: aqua; */
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #makedonation_creditcard {
+        /* font-weight: 400; */
+        font-size: 13px;
+        line-height: 110%;
+        display: flex;
+        align-items: center;
+        letter-spacing: 0.06em;
+    }
+
+    .footer {
+        /* background-color: aqua; */
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .footer_1 {
+        width: 95%;
+        height: 130%;
+        /* background-color: brown; */
+        justify-content: space-around;
+    }
+
+    #footer_h2_qs {
+        font-size: 25px;
+        line-height: 130%;
+        text-align: center;
+        letter-spacing: 0.06em;
+    }
+
+    .f2f {
+        width: 40px;
+        height: 26px;
+        left: calc(50% - 40px/2);
+        top: calc(50% - 26px/2 - 0px);
+    }
+
+    #email {
+        font-size: 20px;
+        line-height: 115%;
+        letter-spacing: 0.06em;
+    }
+
+    #phone {
+        font-size: 20px;
+        line-height: 115%;
+        letter-spacing: 0.06em;
+    }
+
+    #location_1 {
+        font-size: 20px;
+        line-height: 115%;
+        letter-spacing: 0.06em;
+    }
+
+    #location_2 {
+        font-size: 20px;
+        line-height: 115%;
+        letter-spacing: 0.06em;
+    }
+}
